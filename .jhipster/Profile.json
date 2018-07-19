@@ -1,0 +1,22 @@
+{
+    "fluentMethods": true,
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "name",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "results",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "20180716232940",
+    "dto": "no",
+    "service": "no",
+    "entityTableName": "profile",
+    "jpaMetamodelFiltering": false,
+    "pagination": "no",
+    "microserviceName": "ComprehendService",
+    "searchEngine": false
+}
